@@ -1,0 +1,16 @@
+C:\Users\abdul\OneDrive\Masaüstü\c#deneme\bin\Debug\net5.0\c#deneme.exe
+C:\Users\abdul\OneDrive\Masaüstü\c#deneme\bin\Debug\net5.0\c#deneme.deps.json
+C:\Users\abdul\OneDrive\Masaüstü\c#deneme\bin\Debug\net5.0\c#deneme.runtimeconfig.json
+C:\Users\abdul\OneDrive\Masaüstü\c#deneme\bin\Debug\net5.0\c#deneme.runtimeconfig.dev.json
+C:\Users\abdul\OneDrive\Masaüstü\c#deneme\bin\Debug\net5.0\c#deneme.dll
+C:\Users\abdul\OneDrive\Masaüstü\c#deneme\bin\Debug\net5.0\ref\c#deneme.dll
+C:\Users\abdul\OneDrive\Masaüstü\c#deneme\bin\Debug\net5.0\c#deneme.pdb
+C:\Users\abdul\OneDrive\Masaüstü\c#deneme\obj\Debug\net5.0\c#deneme.csproj.AssemblyReference.cache
+C:\Users\abdul\OneDrive\Masaüstü\c#deneme\obj\Debug\net5.0\c#deneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul\OneDrive\Masaüstü\c#deneme\obj\Debug\net5.0\c#deneme.AssemblyInfoInputs.cache
+C:\Users\abdul\OneDrive\Masaüstü\c#deneme\obj\Debug\net5.0\c#deneme.AssemblyInfo.cs
+C:\Users\abdul\OneDrive\Masaüstü\c#deneme\obj\Debug\net5.0\c#deneme.csproj.CoreCompileInputs.cache
+C:\Users\abdul\OneDrive\Masaüstü\c#deneme\obj\Debug\net5.0\c#deneme.dll
+C:\Users\abdul\OneDrive\Masaüstü\c#deneme\obj\Debug\net5.0\ref\c#deneme.dll
+C:\Users\abdul\OneDrive\Masaüstü\c#deneme\obj\Debug\net5.0\c#deneme.pdb
+C:\Users\abdul\OneDrive\Masaüstü\c#deneme\obj\Debug\net5.0\c#deneme.genruntimeconfig.cache
